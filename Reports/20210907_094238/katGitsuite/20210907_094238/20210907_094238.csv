@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+katGitsuite,Chrome 92.0.4515.159,,,2021-09-07 09:42:40,2021-09-07 09:42:56,15.868s,PASSED
+,,,,,,,
+Test Cases/test1,Chrome 92.0.4515.159,,,2021-09-07 09:42:41,2021-09-07 09:42:48,7.716s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.159,,,2021-09-07 09:42:41,2021-09-07 09:42:43,2.239s,PASSED
+maximizeWindow(),Chrome 92.0.4515.159,,,2021-09-07 09:42:43,2021-09-07 09:42:43,0.150s,PASSED
+"navigateToUrl(""https://www.google.ca/"")",Chrome 92.0.4515.159,,,2021-09-07 09:42:43,2021-09-07 09:42:44,0.635s,PASSED
+delay(3),Chrome 92.0.4515.159,,,2021-09-07 09:42:44,2021-09-07 09:42:47,3.036s,PASSED
+closeBrowser(),Chrome 92.0.4515.159,,,2021-09-07 09:42:47,2021-09-07 09:42:48,1.335s,PASSED
+,,,,,,,
+Test Cases/test2,Chrome 92.0.4515.159,,,2021-09-07 09:42:48,2021-09-07 09:42:56,7.875s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.159,,,2021-09-07 09:42:48,2021-09-07 09:42:50,1.132s,PASSED
+maximizeWindow(),Chrome 92.0.4515.159,,,2021-09-07 09:42:50,2021-09-07 09:42:50,0.124s,PASSED
+"navigateToUrl(""https://www.katalon.com/"")",Chrome 92.0.4515.159,,,2021-09-07 09:42:50,2021-09-07 09:42:52,1.905s,PASSED
+delay(3),Chrome 92.0.4515.159,,,2021-09-07 09:42:52,2021-09-07 09:42:55,3.001s,PASSED
+closeBrowser(),Chrome 92.0.4515.159,,,2021-09-07 09:42:55,2021-09-07 09:42:56,1.531s,PASSED
