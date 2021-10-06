@@ -18,6 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
+WebUI.delay(3)
 WebUI.navigateToUrl('https://www.katalon.com/')
 WebUI.delay(3)
 
