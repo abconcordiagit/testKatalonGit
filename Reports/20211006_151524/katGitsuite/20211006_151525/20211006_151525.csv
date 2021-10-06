@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+katGitsuite,Firefox 89.0,,,2021-10-06 15:15:28,2021-10-06 15:15:57,29.775s,PASSED
+,,,,,,,
+Test Cases/test1,Firefox 89.0,,,2021-10-06 15:15:28,2021-10-06 15:15:42,14.234s,PASSED
+"openBrowser("""")",Firefox 89.0,,,2021-10-06 15:15:28,2021-10-06 15:15:36,7.930s,PASSED
+maximizeWindow(),Firefox 89.0,,,2021-10-06 15:15:36,2021-10-06 15:15:37,0.317s,PASSED
+"navigateToUrl(""https://www.google.ca/"")",Firefox 89.0,,,2021-10-06 15:15:37,2021-10-06 15:15:38,0.849s,PASSED
+delay(3),Firefox 89.0,,,2021-10-06 15:15:38,2021-10-06 15:15:41,3.029s,PASSED
+closeBrowser(),Firefox 89.0,,,2021-10-06 15:15:41,2021-10-06 15:15:42,1.577s,PASSED
+,,,,,,,
+Test Cases/test2,Firefox 89.0,,,2021-10-06 15:15:42,2021-10-06 15:15:57,15.154s,PASSED
+"openBrowser("""")",Firefox 89.0,,,2021-10-06 15:15:42,2021-10-06 15:15:47,4.524s,PASSED
+maximizeWindow(),Firefox 89.0,,,2021-10-06 15:15:47,2021-10-06 15:15:47,0.267s,PASSED
+delay(3),Firefox 89.0,,,2021-10-06 15:15:47,2021-10-06 15:15:50,3.004s,PASSED
+"navigateToUrl(""https://www.katalon.com/"")",Firefox 89.0,,,2021-10-06 15:15:50,2021-10-06 15:15:53,2.836s,PASSED
+delay(3),Firefox 89.0,,,2021-10-06 15:15:53,2021-10-06 15:15:56,3.003s,PASSED
+closeBrowser(),Firefox 89.0,,,2021-10-06 15:15:56,2021-10-06 15:15:57,1.302s,PASSED
